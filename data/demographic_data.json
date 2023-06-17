@@ -1,0 +1,15 @@
+{
+  "demographic": [
+    {
+      "fullName": "Ellen Ross",
+      "address": "17 Daws Road, Portland, OR 97006",
+      "telephone": "415-555-1229",
+      "gender": "Female",
+      "martialStatus": "Married",
+      "religion": "Christian",
+      "ethnicity": "Asian",
+      "language": "English",
+      "birthday": "March 7, 1960" 
+    }
+  ]
+}

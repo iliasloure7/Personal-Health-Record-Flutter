@@ -1,0 +1,16 @@
+{
+  "problem_list": [
+    {
+      "name": "Ankle Sprain",
+      "date": "March 28, 2005",
+      "status": "Active",
+      "comments": "Slipped on ice and fell"
+    },
+    {
+      "name": "Cholecystitis",
+      "date": "September 28, 2002",
+      "status": "Resolved",
+      "comments": "Surgery postponed until after delivery"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "allergies": [
+    {
+      "name": "Penicillin",
+      "reaction": "Hives",
+      "severity": "Moderate to severe"
+    },
+    {
+      "name": "Codeine",
+      "reaction": "Shortness of Breath",
+      "severity": "Moderate"
+    },
+    {
+      "name": "Bee Stings",
+      "reaction": "Anaphylactic Shock",
+      "severity": "Severe"
+    }
+  ]
+}

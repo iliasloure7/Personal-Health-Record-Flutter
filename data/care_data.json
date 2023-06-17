@@ -1,0 +1,14 @@
+{
+  "care": [
+    {
+      "name": "Chest X-Ray",
+      "date": "June 1, 2007",
+      "instructions": "-"
+    },
+    {
+      "name": "Sputum Culture",
+      "date": "May 28, 2007",
+      "instructions": "-"
+    }
+  ]
+}
